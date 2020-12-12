@@ -35,7 +35,7 @@
 					echo "</tr>";
 				}
 		}
-			?>
+		?>
 	</table>
 	<div class="bot">
 	<br><a href="views/inserirContato.php"><h3>Novo Contato</h3></a>
