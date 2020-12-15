@@ -10,7 +10,7 @@
 		$retorno = $contatoDAO->buscarUmContato($contato);
 	}
 	if($_POST)
-    {
+   	{
         if($_POST["nome"] == "")
         {
             echo "<script>alert('Preencha o nome')</script>";
